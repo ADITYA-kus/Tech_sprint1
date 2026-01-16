@@ -1,7 +1,8 @@
-streamlit
-plotly
-pandas
-numpy
-scikit-learn
-joblib
-pickle
+streamlit=1.45.1
+plotly=6.1.2
+pandas=2.0.2
+numpy=2.0.2
+scikit-learn=1.6
+joblib=1.5.3
+pickle=4.0
+fastapi=0.119.1

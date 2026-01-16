@@ -5,3 +5,4 @@ numpy==2.0.2
 scikit-learn==1.6.0
 joblib==1.5.3
 fastapi==0.119.1
+requests>=2.31
